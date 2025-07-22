@@ -1,0 +1,3 @@
+function openGift(element) {
+  element.classList.add("open");
+}
